@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## - I am currently learning about the next frontier: AI + Quantum computing
+## - You can reach me at: angel@goluquillo.com
+## - Proudly made at: Archipiélago de Puerto Rico
