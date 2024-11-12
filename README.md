@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## - I am currently learning about the next frontier: AI + Quantum computing
-## - You can reach me at: angel@goluquillo.com
+## - You can reach me at: aabd1@student.london.ac.uk
 ## - Proudly made at: Archipiélago de Puerto Rico
